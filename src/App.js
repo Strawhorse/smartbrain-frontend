@@ -12,7 +12,7 @@ import Register from './components/Register/Register';
 
 
 // initiate the api and create an object of it
-const app = new Clarifai.App({apiKey: 'd531340b2c734b60b04844d2d6fb19a1'});
+const app = new Clarifai.App({apiKey: YOUR CLARIFAI API KEY GOES HERE});
 
 
 
